@@ -97,10 +97,11 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
-    },{
+    },
+    {
       skillName: "Github",
       fontAwesomeClassname: "fab fa-github"
-    }/*,
+    } /*,
     ,
     {
       skillName: "docker",
@@ -121,18 +122,16 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "January 2019 - Present",
       desc: "Conducted a research on Covid-19 Effects On Technology.",
-      descBullets: [
-        "Wrote on the effects of covid-19 on fintech startups"
-      ]
+      descBullets: ["Wrote on the effects of covid-19 on fintech startups"]
     }
-   /* {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }*/
+    /* {
+       schoolName: "Stanford University",
+       logo: require("./assets/images/stanfordLogo.png"),
+       subHeader: "Bachelor of Science in Computer Science",
+       duration: "September 2013 - April 2017",
+       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+     }*/
   ]
 };
 
@@ -171,7 +170,7 @@ const workExperiences = {
       company: "Zuri Internship",
       companylogo: require("./assets/images/zuri.png"),
       date: "March 2021 – July 2021",
-      desc: "Zuri Internship is a long running, large scale virtual internship for people learning to code and design. It focuses on the post-training phase, and creates a virtual work environment for participants.",
+      desc: "Zuri Internship is a long running, large scale virtual internship for people learning to code and design. It focuses on the post-training phase, and creates a virtual work environment for participants."
       /*descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
