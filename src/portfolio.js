@@ -170,6 +170,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Flutter Developer",
+      company: "Greenmouse Technologies",
+      companylogo: require("./assets/images/hng.png"),
+      date: "August 2021 – November 2021",
+      desc: "The HNG Internship is an ambitious attempt to change the way education is done in Africa. It’s the bridge between learning to code, and becoming the best in the world"
+    },
+    {
       role: "Lead Mobile Developer Intern",
       company: "Zuri Internship",
       companylogo: require("./assets/images/zuri.png"),
@@ -184,14 +191,14 @@ const workExperiences = {
       role: "Native Android Developer Intern",
       company: "HNG",
       companylogo: require("./assets/images/hng.png"),
-      date: "August 2021 – Present",
+      date: "August 2021 – November 2021",
       desc: "The HNG Internship is an ambitious attempt to change the way education is done in Africa. It’s the bridge between learning to code, and becoming the best in the world"
     },
     {
       role: "Software Engineer Intern",
       company: "Google Developers Internship",
       companylogo: require("./assets/images/gads1.png"),
-      date: "July 2021 – Present",
+      date: "July 2021 – March 2022",
       desc: "A Yearly Internship training organized by Google in collaboration with Andela and PLuralsight "
     }
   ]
