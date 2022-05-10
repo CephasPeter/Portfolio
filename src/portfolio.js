@@ -25,7 +25,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/CephasPeter",
-  linkedin: "https://www.linkedin.com/in/arowolo-cephas-928902203/",
+  linkedin: "https://www.linkedin.com/in/arowolo-cephas/",
   gmail: "cephasarowolo@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
@@ -172,9 +172,9 @@ const workExperiences = {
     {
       role: "Flutter Developer",
       company: "Greenmouse Technologies",
-      companylogo: require("./assets/images/hng.png"),
-      date: "August 2021 – November 2021",
-      desc: "The HNG Internship is an ambitious attempt to change the way education is done in Africa. It’s the bridge between learning to code, and becoming the best in the world"
+      companylogo: require("./assets/images/greenmouse.png"),
+      date: "December 2021 – Present",
+      desc: "Greenmouse is a trusted web designer, professional web design company in Lagos with proven expertise in website design, web app development, ecommerce website design, mobile apps development, Search Engine Optimisation and affordable digital marketing services that are tailored to solve digital business needs in Nigeria and Abroad."
     },
     {
       role: "Lead Mobile Developer Intern",
@@ -194,13 +194,13 @@ const workExperiences = {
       date: "August 2021 – November 2021",
       desc: "The HNG Internship is an ambitious attempt to change the way education is done in Africa. It’s the bridge between learning to code, and becoming the best in the world"
     },
-    {
+    /*{
       role: "Software Engineer Intern",
       company: "Google Developers Internship",
       companylogo: require("./assets/images/gads1.png"),
       date: "July 2021 – March 2022",
       desc: "A Yearly Internship training organized by Google in collaboration with Andela and PLuralsight "
-    }
+    }*/
   ]
 };
 
@@ -215,8 +215,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "SOME PROJECTS I HAVE MADE ALONE OR COLLABORATED ON",
   projects: [
     {
       image: require("./assets/images/kidvacc.png"),
@@ -224,8 +224,8 @@ const bigProjects = {
       projectDesc: "A Vaccination Application For Children",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://zuri-training.github.io/kidvacc-fe-pjt-37/#"
+          name: "Github Link",
+          url: "https://github.com/zuri-training/kidvacc-mobile-pjt-37"
         }
         //  you can add extra buttons here.
       ]
@@ -236,8 +236,8 @@ const bigProjects = {
       projectDesc: "A Open Source Collaboration Tool",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "https://zuri.chat/"
+          name: "Github Link",
+          url: "https://github.com/zurichat"
         }
       ]
     }
