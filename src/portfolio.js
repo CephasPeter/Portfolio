@@ -124,14 +124,6 @@ const educationInfo = {
       desc: "Conducted a research on Covid-19 Effects On Technology.",
       descBullets: ["Wrote on the effects of covid-19 on fintech startups"]
     }
-    /* {
-       schoolName: "Stanford University",
-       logo: require("./assets/images/stanfordLogo.png"),
-       subHeader: "Bachelor of Science in Computer Science",
-       duration: "September 2013 - April 2017",
-       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-     }*/
   ]
 };
 
