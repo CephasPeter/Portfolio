@@ -130,7 +130,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: false, //Set it to true to show Proficiency Section
+  viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Mobile Android Development", //Insert stack or technology you have experience in
@@ -145,7 +145,11 @@ const techStack = {
       progressPercentage: "80%"
     },
     {
-      Stack: "C#",
+      Stack: "Flutter",
+      progressPercentage: "65%"
+    },
+    {
+      Stack: "Dart",
       progressPercentage: "60%"
     }
   ],
