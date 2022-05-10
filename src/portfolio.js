@@ -133,8 +133,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Mobile Android Development", //Insert stack or technology you have experience in
+      Stack: "Android Development", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "iOS Development", //Insert stack or technology you have experience in
+      progressPercentage: "40%" //Insert relative proficiency in percentage
+    },
+    {
+      Stack: "Flutter",
+      progressPercentage: "65%"
     },
     {
       Stack: "Java",
@@ -145,12 +153,12 @@ const techStack = {
       progressPercentage: "80%"
     },
     {
-      Stack: "Flutter",
-      progressPercentage: "65%"
-    },
-    {
       Stack: "Dart",
       progressPercentage: "60%"
+    },
+    {
+      Stack: "Swift",
+      progressPercentage: "50%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
